@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "ClassLibrary1\Biblioteca.csproj", "{D35DAD16-3D58-4464-BBE6-B37E8998C2FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalisadorLexico", "AnalisadorLexico\AnalisadorLexico.csproj", "{9E9A8C6A-8B9F-47A7-AF45-5C9C54DF4856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D35DAD16-3D58-4464-BBE6-B37E8998C2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35DAD16-3D58-4464-BBE6-B37E8998C2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35DAD16-3D58-4464-BBE6-B37E8998C2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35DAD16-3D58-4464-BBE6-B37E8998C2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E9A8C6A-8B9F-47A7-AF45-5C9C54DF4856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9A8C6A-8B9F-47A7-AF45-5C9C54DF4856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9A8C6A-8B9F-47A7-AF45-5C9C54DF4856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9A8C6A-8B9F-47A7-AF45-5C9C54DF4856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

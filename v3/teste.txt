@@ -1,0 +1,1 @@
+﻿if variavel1 then variavel1 = variavel2 else variavel1 = variavel2 || variavel3
